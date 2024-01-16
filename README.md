@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>addition</title>
+    <title>calculator</title>
      <style>
 .addition{
     margin:150px 80px 100px 90px ;
